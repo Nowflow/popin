@@ -351,13 +351,3 @@ Write a mail to [support@popin.to](mailto:support@popin.to)
 
 ---
 
-**Image Details:**
-
-- **Format:** Portable Network Graphic (PNG)
-- **Bits Per Pixel:** 32
-- **Color:** Truecolour with alpha
-- **Dimensions:** 2400 x 399
-- **Interlaced:** Yes
-- **Software:** Adobe ImageReady
-- **XResolution:** 300
-- **YResolution:** 300
