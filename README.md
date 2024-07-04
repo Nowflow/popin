@@ -167,8 +167,3 @@ A POST request has to be sent with your token and products info as JSON to the a
 Write a mail to [support@popin.to](mailto:support@popin.to)
 
 
-
-## Questions?
-
-Write a mail to [support@popin.to](mailto:support@popin.to)
-
