@@ -1,8 +1,4 @@
-Here is the content from the document converted to Markdown:
-
----
-
-# Integration Document
+# Popin Integration Document
 
 **POPIN VIDEO SHOPPING**
 
