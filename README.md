@@ -32,7 +32,8 @@ popIn.onload = () => {
     captured: {     //optional for logged in user
       name: "John Doe",
       mobile: "9876543210",
-      email: "john@lorem.com"
+      email: "john@lorem.com",
+      pin_code : "123456"
     }
   });
 }
