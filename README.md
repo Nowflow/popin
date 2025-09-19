@@ -32,37 +32,17 @@ popIn.onload = () => {
     captured: {     //optional for logged in user
       name: "John Doe",
       mobile: "9876543210",
-      email: "john@lorem.com"
-    }
+      email: "john@lorem.com",
+      campaign: {
+        pin_code: "123456",
+        extra: "b2b"
+      }
+     }
   });
 }
 </script>
 ```
 
-To pass additional data you can do:
-
-```html
-<script>
-let popIn = document.createElement('script')
-popIn.setAttribute('src', 'https://widget01.popin.to/js/widget.js')
-document.body.appendChild(popIn)
-popIn.onload = () => {
-  popInWidgetInit({
-    token: "123456",
-    mode: "hidden", //optional to hide widget icon
-    captured: {     //optional for logged in user
-      name: "John Doe",
-      mobile: "9876543210",
-      email: "john@lorem.com"
-    },
-    campaign: {
-      pin_code: "123456",
-      extra: "b2b"
-    }
-  });
-}
-</script>
-````
 
 ---
 
